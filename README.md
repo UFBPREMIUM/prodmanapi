@@ -6,7 +6,7 @@
   • AddProductToCategory() will set productAttributes like this => attr1=val1;attr2=val2;attr3=val3;attr4=val4; <br />
   • GetProductsByAttr(attr_name,attr_value) returns a list of products with attribute and value match <br />
 
-# Example Category
+# Example Create Category
   • CategoryTshirt <br />
   { <br />
     id=3, <br />
@@ -14,7 +14,7 @@
     categoryAttributes="Size;Color;Gender;Brand" <br />
   } <br />
 
-# Example Product
+# Example Create Product
   • ProductTshirt <br />
   { <br />
     id=0, <br />
